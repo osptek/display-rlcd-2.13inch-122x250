@@ -1,0 +1,10 @@
+id: YDP213H001-V3
+category: displays
+size: "2.13"
+panel: rlcd
+resolution: 122x250
+interface: [spi]
+driver: ST7305
+touch: null
+outline: 27.07 x 56.2 mm
+active_area: 23.668 x 48.5 mm
